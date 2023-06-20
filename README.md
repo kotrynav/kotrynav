@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kotrynav
+- 👋 Hi, I’m @kotrynav, currently working on a full-stack project as an intern @ Robinhood.
 - 👀 I’m interested in artificial intelligence, web development, and cybersecurity.
-- 🌱 I’m currently learning React, data structures, discrete math & probability, and AWS systems.
-- 💞️ I’m looking to collaborate on hackathons! Especially for social good causes.
-- 📫 How to reach me jk.vismante@berkeley.edu
+- 📫 Reach me at jk.vismante@berkeley.edu
 
 <!---
 kotrynav/kotrynav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
