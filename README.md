@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kotrynav, currently working @ Robinhood.
+- 👋 Hi, I’m @kotrynav, I build crypto trading @ Robinhood.
 - 📫 Reach me at kotryna.vismante@robinhood.com
 
 <!---
