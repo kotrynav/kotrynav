@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kotrynav, I build crypto trading @ Robinhood.
+- 👋 Hi, I’m @kotrynav, I build tokenized stocks and crypto trading @ Robinhood.
 - 📫 Reach me at kotryna.vismante@robinhood.com
 
 <!---
